@@ -57,9 +57,7 @@ drum-kit/
 
 1. Clone this repository.
 
-```bash
-git clone https://github.com/yourusername/drum-kit.git
-```
+
 
 2. Open the project folder.
 
@@ -90,6 +88,6 @@ Through this project, I practiced:
 
 Nikhil Varma
 
-GitHub: [Your GitHub Profile]
+
 
 LinkedIn: [Your LinkedIn Profile]
